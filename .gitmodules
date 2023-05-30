@@ -5,3 +5,7 @@
 [submodule "lib/NFTEDA"]
 	path = lib/NFTEDA
 	url = https://github.com/with-backed/NFTEDA
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
+	branch = v7
